@@ -30,13 +30,15 @@ todo> python manage.py runserver
 ![image](https://user-images.githubusercontent.com/93276431/149786035-0e9b8dd3-55da-4aa5-95c8-3942d01a79f6.png)
 ## 2) Next, go to our server and log in using our username and password. Also, in order to enter the login page, we need to register admin at the end of our address http://127.0.0.1:8000/admin/login/admin/
 ![image](https://user-images.githubusercontent.com/93276431/149786339-d377afc8-67df-4957-b5df-66d37dff3ee2.png)
-![image](https://user-images.githubusercontent.com/93276431/149786453-cb197b5d-5586-4d21-aac5-68e87d4e8fd2.png)
+![image](https://user-images.githubusercontent.com/93276431/150193371-a980cd06-a139-4416-a53a-13c0477b9610.png)
+![image](https://user-images.githubusercontent.com/93276431/150193406-9f9ca2b7-d026-4095-bf05-aaf193aca606.png)
+
 ## 3) You can add any task to your glider and also easily delete it.
-![image](https://user-images.githubusercontent.com/93276431/149787102-c686c17c-c647-456f-b4c4-0576c3f1dff3.png)
-![image](https://user-images.githubusercontent.com/93276431/149787493-dd37eb09-bb8c-49bf-b15f-afd1b237e495.png)
-![image](https://user-images.githubusercontent.com/93276431/149787588-d7b5833f-f908-4bd4-8eca-ccdb42df2300.png)
-![image](https://user-images.githubusercontent.com/93276431/149787693-5d86b6cc-be23-4857-9d5f-b9a5b6dfd263.png)
+![image](https://user-images.githubusercontent.com/93276431/150193454-3310e631-1abc-4e0b-9951-8d2e93b2771f.png)
+![image](https://user-images.githubusercontent.com/93276431/150193507-824e69c1-2d36-43e4-b17a-41e9c252bcb6.png)
+![image](https://user-images.githubusercontent.com/93276431/150193619-f61f45b6-fe43-4e4d-a95b-13471ec2f8f2.png)
+
 ## 3) When completing a task, you can delete it from the list.
-![image](https://user-images.githubusercontent.com/93276431/149788152-a3ead994-3a13-495e-ace5-b9cd0e16ac98.png)
-## 4)
-![image](https://user-images.githubusercontent.com/93276431/150114050-e8d5d43a-efd5-43d1-a8c5-a4dd4822b940.png)
+![image](https://user-images.githubusercontent.com/93276431/150193664-b6da0faf-b304-4629-94a8-8daa130fef1c.png)
+## 4) For this project i used PostgreSql
+![image](https://user-images.githubusercontent.com/93276431/150193803-425e78a8-3029-4386-b46e-f46daa53bfcb.png)
